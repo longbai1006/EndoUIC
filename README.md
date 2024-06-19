@@ -8,7 +8,7 @@
 
 <h4> Long Bai*, Qiaozhi Tan*, Tong Chen*, Wanjun Nah, Yanheng Li, Zhicheng He, Sishen Yuan, Zhen Chen, Jinlin Wu, Mobarakol Islam, Zhen Li, Hongbin Liu, and Hongliang Ren </h3>
 
-<h2> MICCAI 2024 </h1>
+<h2> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024 </h1>
 
 </samp>   
 
