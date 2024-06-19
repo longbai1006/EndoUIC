@@ -45,7 +45,7 @@ BASICSR_EXT=True sudo $(which python) setup.py develop
 1. [Kvasir-Capsule Dataset](https://osf.io/dv2ag/) and [Red Lesion Endoscopy Dataset](https://rdm.inesctec.pt/dataset/nis-2018-003)
     - The low-light and ground-truth image pairs are released by [LLCaps](https://github.com/longbai1006/LLCaps). 
 2. [Capsule endoscopy Exposure Correction (CEC) Dataset]()
-    - The dataset will be released upon acceptance.
+    - We are currently working on it and the dataset is coming soon.
 ---
 
 
