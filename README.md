@@ -12,10 +12,26 @@
 
 </samp>   
 
+| **[[```arXiv```](<https://arxiv.org/abs/2307.02452>)]** | **[[```Paper```](<https://link.springer.com/chapter/10.1007/978-3-031-43999-5_4>)]** |
+|:-------------------:|:-------------------:|
 
 ---
 
 </div>     
+
+If you find our code, paper, or dataset useful, please cite the paper as
+
+```bibtex
+@inproceedings{bai2023llcaps,
+  title={LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion},
+  author={Bai, Long and Chen, Tong and Wu, Yanan and Wang, An and Islam, Mobarakol and Ren, Hongliang},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={34--44},
+  year={2023},
+  organization={Springer}
+}
+```
+--- 
 
 ## Abstract
 
