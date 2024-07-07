@@ -22,13 +22,11 @@
 If you find our code, paper, or dataset useful, please cite the paper as
 
 ```bibtex
-@inproceedings{bai2023llcaps,
-  title={LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion},
-  author={Bai, Long and Chen, Tong and Wu, Yanan and Wang, An and Islam, Mobarakol and Ren, Hongliang},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={34--44},
-  year={2023},
-  organization={Springer}
+@article{bai2024endouic,
+  title={EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy},
+  author={Bai, Long and Tan, Qiaozhi and Chen, Tong and Nah, Wan Jun and Li, Yanheng and He, Zhicheng and Yuan, Sishen and Chen, Zhen and Wu, Jinlin and Islam, Mobarakol and others},
+  journal={arXiv preprint arXiv:2406.13705},
+  year={2024}
 }
 ```
 --- 
