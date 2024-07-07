@@ -6,14 +6,14 @@
 
 <h2> EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy </h1>
 
-<h4> Long Bai*, Qiaozhi Tan*, Tong Chen*, Wanjun Nah, Yanheng Li, Zhicheng He, Sishen Yuan, Zhen Chen, Jinlin Wu, Mobarakol Islam, Zhen Li, Hongbin Liu, and Hongliang Ren </h3>
+<h4> Long Bai*, Qiaozhi Tan*, Tong Chen*, Wanjun Nah, Yanheng Li, Zhicheng He, Sishen Yuan, Zhen Chen, Jinlin Wu, Mobarakol Islam, Zhen Li, Hongbin Liu, Hongliang Ren </h3>
 
 <h3> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024 </h2>
 
 </samp>   
 
-| **[[```arXiv```](<https://arxiv.org/abs/2307.02452>)]** | **[[```Paper```](<https://link.springer.com/chapter/10.1007/978-3-031-43999-5_4>)]** |
-|:-------------------:|:-------------------:|
+| **[[```arXiv```](<https://arxiv.org/abs/2406.13705>)]** |
+|:-------------------:|
 
 ---
 
