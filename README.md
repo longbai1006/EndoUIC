@@ -34,8 +34,8 @@ If you find our code, paper, or dataset useful, please cite the paper as
 
 Wireless Capsule Endoscopy (WCE) is highly valued for its non-invasive and painless approach, though its effectiveness is compromised by uneven illumination from hardware constraints and complex internal dynamics, leading to overexposed or underexposed images. While researchers have discussed the challenges of low-light enhancement in WCE, the issue of correcting for different exposure levels remains underexplored. To tackle this, we introduce EndoUIC, a WCE unified illumination correction solution using an end-to-end promptable diffusion transformer (DFT) model. In our work, the illumination prompt module shall navigate the model to adapt to different exposure levels and perform targeted image enhancement, in which the Adaptive Prompt Integration (API) and Global Prompt Scanner (GPS) modules shall further boost the concurrent representation learning between the prompt parameters and features. Besides, the U-shaped restoration DFT model shall capture the long-range dependencies and contextual information for unified illumination restoration. Moreover, we present a novel Capsule-endoscopy Exposure Correction (CEC) dataset, including ground-truth and corrupted image pairs annotated by expert photographers. Extensive experiments against a variety of state-of-the-art (SOTA) methods on four datasets showcase the effectiveness of our proposed method and components in WCE illumination restoration, and the additional downstream experiments further demonstrate its utility for clinical diagnosis and surgical assistance. 
 
-
 ---
+
 ## Environment
 
 For environment setup, please follow these instructions
@@ -54,13 +54,14 @@ BASICSR_EXT=True sudo $(which python) setup.py develop
 ```
 
 ---
+
 ## Dataset
 1. [Kvasir-Capsule Dataset](https://osf.io/dv2ag/) and [Red Lesion Endoscopy Dataset](https://rdm.inesctec.pt/dataset/nis-2018-003)
     - The low-light and ground-truth image pairs are released by [LLCaps](https://github.com/longbai1006/LLCaps). 
 2. [Endo4IE Dataset](https://data.mendeley.com/datasets/3j3tmghw33/1)
 3. [Capsule endoscopy Exposure Correction (CEC) Dataset](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EZuLCQk1SjRMr7L6pIpiG5kBwhcMGp1hB_g73lySKlVUjA?e=g84Zl8)
----
 
+---
 
 ## Training
 
@@ -79,6 +80,7 @@ CUDA_VISIBLE_DEVICES=0,1...,n-1 python -m torch.distributed.launch --nproc_per_n
 Training arguments can be modified in 'train_v1.yml'.
 
 ## Inference
+
 Conduct model inference by running
 
 ```
@@ -95,5 +97,3 @@ python evaluation.py -dir_A /[GT_PATH] -dir_B /[GENERATED_IMAGE_PATH]
 ```
 
 ---
-
-
