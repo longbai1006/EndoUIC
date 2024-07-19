@@ -53,6 +53,8 @@ pip install -r requirements.txt
 BASICSR_EXT=True sudo $(which python) setup.py develop
 ```
 
+You also need to install 
+
 ---
 
 ## Dataset
@@ -98,7 +100,7 @@ python evaluation.py -dir_A /[GT_PATH] -dir_B /[GENERATED_IMAGE_PATH]
 
 ## Acknowledgement 
 
-The code is partly built on [PyDiff](https://github.com/limuloo/PyDIff) and [PromptIR](https://github.com/va1shn9v/PromptIR).
+The code is partly built on [PyDiff](https://github.com/limuloo/PyDIff), [PromptIR](https://github.com/va1shn9v/PromptIR), and [VMamba](https://github.com/MzeroMiko/VMamba).
 
 ---
 
