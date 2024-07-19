@@ -96,4 +96,10 @@ cd evaluation
 python evaluation.py -dir_A /[GT_PATH] -dir_B /[GENERATED_IMAGE_PATH] 
 ```
 
+## Acknowledgement 
+
+The code is partly built on [PyDiff](https://github.com/limuloo/PyDIff) and [PromptIR](https://github.com/va1shn9v/PromptIR).
+
 ---
+
+
