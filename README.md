@@ -61,7 +61,7 @@ You also need to install
 1. [Kvasir-Capsule Dataset](https://osf.io/dv2ag/) and [Red Lesion Endoscopy Dataset](https://rdm.inesctec.pt/dataset/nis-2018-003)
     - The low-light and ground-truth image pairs are released by [LLCaps](https://github.com/longbai1006/LLCaps). 
 2. [Endo4IE Dataset](https://data.mendeley.com/datasets/3j3tmghw33/1)
-3. [Capsule endoscopy Exposure Correction (CEC) Dataset](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EZuLCQk1SjRMr7L6pIpiG5kBwhcMGp1hB_g73lySKlVUjA?e=g84Zl8)
+3. [Capsule endoscopy Exposure Correction (CEC) Dataset](https://drive.google.com/file/d/1h1mqugWx7PfmU_H7uGK-AIMcMhf1C2n6/view?usp=sharing)
 
 ---
 
